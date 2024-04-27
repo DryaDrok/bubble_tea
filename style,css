@@ -1,0 +1,80 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(to bottom, #AACCFF, #D192E7);
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    background-color: #D192E7;
+    border-radius: 25px;
+    height: 25px;
+    width: 70px;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    bottom: 60px;
+    left: 700px;
+    font-size: 20px;
+    width: 165px;
+}
+.tea{
+    display: flex;
+    justify-content: space-between;
+}
+.xx{
+    font-size: 30px;
+    text-align: center;
+}
+.xx:hover{
+    color: #528fec;
+    transition: 3s;
+}
+
+.boba{
+    height: 320px;
+    width: 1060px;
+}
+.Boubble{
+    text-align: center;
+}
+.ps {
+    font-size: 30px;
+    text-align: center;
+}
+.lt{
+   font-size: 30px;
+    text-align: center; 
+}
+.lt:hover{
+    color: aqua;
+    transition: 3s;
+}
+.vi {
+    font-size: 30px;
+    text-align: center;
+}
+.vi:hover{
+    color: #9f20cd;
+    transition: 3s;
+}
+.ct{
+    text-align: center;
+    font-size: 20px;
+}
+.tp {
+    text-align: center;
+}
+.tp:hover {
+    font-size: 25px;
+    transition: 2s;
+}
+
+.ki {
+    font-size: 20px;
+}
+
+
+
